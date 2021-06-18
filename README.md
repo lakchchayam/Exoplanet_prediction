@@ -27,3 +27,15 @@ There are about 100,000,000,000 stars in our Galaxy, the Milky Way. How many exo
 However, detecting exoplanets is no simple task. We may have imagined life on other planets in books and film for centuries, but detecting actual exoplanets is a recent phenomenon. Planets on their own emit very little if any light. We can only see Jupiter or Venus in the night sky because they reflect the sun’s light. If we were to look at an exoplanet (the nearest one is over 4 light-years away), it would be very close to a brilliantly lit star, making the planet impossible to see.
 
 ![image](https://user-images.githubusercontent.com/49754403/122518026-551d7900-d02e-11eb-9075-9a167415a157.png)
+
+
+
+
+Scientists discovered a very efficient way to study these occurrences; planets themselves do not emit light, but the stars around which they orbit do. Considering this fact into account scientists at NASA developed a method which they called Transit method in which a digital-camera-like technology is used to detect and measure tiny dips in a star’s brightness as a planet crosses in front of the star. With observations of transiting planets, astronomers can calculate the ratio of a planet’s radius to that of its star — essentially the size of the planet’s shadow — and with that ratio, they can calculate the planet’s size.
+Kepler Space Telescope’s primary method of searching for planets was the “Transit” method.
+
+Transit method: In the diagram below, a star is orbited by a planet. From the graph, it is visible that the starlight intensity drops because it is partially obscured by the planet, given our position. The starlight rises back to its original value once the planets crosses in front of the star.
+
+
+![image](https://user-images.githubusercontent.com/49754403/122518486-e42a9100-d02e-11eb-9ccd-a208ab387aad.png)
+
