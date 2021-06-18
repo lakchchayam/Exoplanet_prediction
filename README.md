@@ -39,5 +39,4 @@ Transit method: In the diagram below, a star is orbited by a planet. From the gr
 
 ![image](https://user-images.githubusercontent.com/49754403/122518486-e42a9100-d02e-11eb-9ccd-a208ab387aad.png)
 
-https://miro.medium.com/max/768/0*fx6I1Gd3chOlhhnI.gif
 
